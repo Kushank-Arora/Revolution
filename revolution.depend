@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1428145270 source:c:\users\kushank\documents\codeblock\revolution\main.cpp
+	<tchar.h>
+	<windows.h>
+	<math.h>
+	<stdio.h>
+
+1454320733 source:e:\study\working\codeblock\revolution\main.cpp
+	<tchar.h>
+	<windows.h>
+	<math.h>
+	<stdio.h>
+
